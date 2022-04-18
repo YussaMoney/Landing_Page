@@ -1,0 +1,77 @@
+header{
+    background: darkslategray;
+}
+header > aside > img{
+    float: right;
+    margin-top: -300px;
+    width: 640px;
+}
+
+footer{
+    background: lightgray;
+}
+header > div{
+    float: right;
+    background-color: black;
+}
+h1 > p{
+    font-size: 50px;
+    color: #f9faf8;
+
+}
+button{
+    background-color: blue;
+    padding: 9px;
+    width: 100px;
+    border-radius: 18px;
+    font-size: 17px;
+    font-weight: bolder;
+    
+}
+.love, .located, .full-meaning, .other-meaning{
+    border: blueviolet solid;
+    border-radius: 22px;
+    width: 150px;
+     height: 80px;
+     background: aliceblue;
+}
+.other-meaning{
+    margin-left: 180px;
+    margin-top: -88px;
+
+}
+.full-meaning{
+    margin-top: 20px;
+}
+.located{
+    margin-left: 360px;
+    margin-top: -88px;
+}
+.love{
+    margin-left: 540px;
+    margin-top: -88px;
+}
+section{
+    background-color: lightgoldenrodyellow;
+}
+.quote{
+    width: 700px;
+}
+.who{
+    font-weight: bold;
+    margin-left: 400px;
+}
+span{
+    font-weight: bold;
+    font-size: large;
+}
+footer > p{
+    margin-top: 11px;    
+}
+footer > p > button{
+    float: right;
+    margin-top: -66px;
+}
+body{
+    background-color: darkslategrey;
+}
