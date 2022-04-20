@@ -1,4 +1,4 @@
-# Youtube Homepage
+# Landing Page
 
 This is a simple HTML with little styling(CSS) of a Landing page write in the format of HTML5
 
